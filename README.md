@@ -1,6 +1,6 @@
 # TaTo30
 practicafinal
-
+```c
 #include "Calculadora.h"
 
 using namespace std;
@@ -370,6 +370,5 @@ double Calculadora::Tangente(double x){
 }
 
 
-
-
+```
 
